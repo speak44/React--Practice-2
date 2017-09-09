@@ -1,0 +1,66 @@
+.foot{
+	width: 500px;
+	margin-top: 20px;
+}
+.info_box{
+	height: 30px;
+	background-color: #3a95ae;
+	border-radius: 4px;
+	font-size: 14px;
+	line-height: 30px;
+}
+.info_box span{
+	float: left;
+	color: #fff;
+	width: 70px;
+}
+.info_box span:nth-of-type(1){
+	width: 10px;
+	height: 10px;
+	margin:8px;
+}
+.info_box span:nth-of-type(7){
+	width: 110px;
+	text-align: center;
+}
+.foot ul{
+  width: 500px;
+	min-height: 36px;
+	line-height: 36px;
+	background-color: #fff;
+	border-radius: 4px;
+	color: #77d8fa;
+	font-size: 14px;
+}
+.foot li:nth-of-type(2){
+    width: 119px;
+
+}
+.foot li:nth-of-type(1){
+	width: 30px;
+	height: 30px;
+	margin-top:4px;
+}
+.libtn{
+	margin: 0px;
+	padding: 0px;
+	width: 20px;
+	height: 20px;
+}
+.foot li{
+	float: left;
+	width: 30px;
+	text-align: center;
+	cursor: pointer;
+}
+.foot li:nth-of-type(3){
+	width: 55px;
+	text-align: center;
+}
+.foot li:nth-of-type(4){
+	width: 110px;
+	text-align: center;
+}
+.foot li:nth-of-type(5){
+    margin-right: 40px;
+}

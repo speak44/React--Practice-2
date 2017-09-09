@@ -1,0 +1,29 @@
+.foot{
+	width: 500px;
+	margin-top: 20px;
+}
+.info_box{
+	height: 30px;
+	background-color: #3a95ae;
+	border-radius: 4px;
+	font-size: 14px;
+	line-height: 30px;
+}
+.info_box span{
+	float: left;
+	color: #fff;
+	width: 70px;
+}
+.info_box span:nth-of-type(7){
+	width: 110px;
+	text-align: center;
+}
+.foot ul{
+	height: 36px;
+  min-width: 500px;
+	line-height: 36px;
+	background-color: #fff;
+	border-radius: 4px;
+	color: #77d8fa;
+	font-size: 14px;
+}
